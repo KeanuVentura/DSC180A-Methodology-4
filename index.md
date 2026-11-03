@@ -5,7 +5,7 @@
 
 **1. What is the most interesting topic covered in your domain this quarter?**
 
-The most interesting topic to me has been learning about SarSim0 and the idea of generating synthetic data that can be used to effectively train an anomaly detection model. 
+The most interesting topic to me has been learning about SarSim0 and the idea of generating synthetic data that can be used to effectively train an anomaly detection model. I find it really cool that artificially generated data can capture realistic patterns well enough for models to generalize to real-world scenarios without being trained on real-world data.
 
 **2. Describe a potential investigation you would like to pursue for your Quarter 2 Project.**
 
