@@ -1,5 +1,5 @@
 # Keanu Ventura  
-## **Email:** keventura@ucsd.edu  
+### **Email:** keventura@ucsd.edu  
 ### **Section:** D05 - Azimuth AI  
 ### **Mentor:** Haojian Jin
 
